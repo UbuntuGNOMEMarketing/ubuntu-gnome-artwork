@@ -1,0 +1,771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "link/base.css",
+			"settings":
+			{
+				"buffer_size": 4814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "welcome.html",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "desktop.html",
+			"settings":
+			{
+				"buffer_size": 1273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "browse.html",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "goa.html",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "office.html",
+			"settings":
+			{
+				"buffer_size": 931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "media.html",
+			"settings":
+			{
+				"buffer_size": 1397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photos.html",
+			"settings":
+			{
+				"buffer_size": 964,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "usc.html",
+			"settings":
+			{
+				"buffer_size": 551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accessibility.html",
+			"settings":
+			{
+				"buffer_size": 995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gethelp.html",
+			"settings":
+			{
+				"buffer_size": 619,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa se",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"updg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"paka",
+				"Package Control: Add Channel"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"cka",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/test-slideshow.sh",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu/slides/ubuntuone.html",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/xubuntu/slides/link/base.css",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/TODO",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/xubuntu/slides/05_desktop.html",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows_old/xubuntu/slides/link/base.css",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows_old/xubuntu/slides/01_web.html",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/AUTHORS",
+		"/home/aldomann/Descargas/ubuntu-gnome-default-settings-13.10.5/lib/plymouth/themes/ubuntu-gnome-text/ubuntu-gnome-text.plymouth.in",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu-gnome/slides/mobilise.html",
+		"/home/aldomann/Dropbox/Ubuntu GNOME/ubiquity/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu-gnome/slides/link/base.css",
+		"/home/aldomann/Dropbox/Ubuntu GNOME/ubiquity/ubiquity-slideshow-ubuntu-72/TODO",
+		"/home/aldomann/Descargas/Ubuntu GNOME/ubiquity/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu-gnome/slides/link/base.css",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu/slideshow.conf",
+		"/home/aldomann/Descargas/ubiquity-slideshow-ubuntu-72/slideshows/ubuntu-gnome-new/slideshow.conf",
+		"/home/aldomann/Dropbox/Binaries/appsfixer",
+		"/home/aldomann/Dropbox/Binaries/add-apps",
+		"/home/aldomann/Dropbox/Binaries/add-repos",
+		"/home/aldomann/Dropbox/Binaries/Package Control.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aldomann/Dropbox/Binaries/Preferences.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/aldomann/.config/sublime-text-3/Packages/WordCount/WordCount.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/aldomann/Dropbox/Binaries/apps-manager.sublime-project",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/aldomann/repositories.json",
+		"/home/aldomann/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/INI.tmLanguage",
+		"/home/aldomann/Dropbox/Apps Desktops/gvbam.desktop",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/package-metadata.json",
+		"/home/aldomann/Dropbox/Apps Desktops/arista.desktop",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aldomann/Dropbox/Apps Desktops/sublime-text.desktop",
+		"/usr/share/applications/sublime-text.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br /><br />",
+			"f7f6",
+			"f7f6f6",
+			"color",
+			"color:",
+			"font-siz",
+			".png\"/></div",
+			"head",
+			"Screenshot to ",
+			"304",
+			"twitter",
+			"UBUNTU",
+			"menu",
+			"Package",
+			"save",
+			"check"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-alt.png\"/></div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "link/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3081,
+								3081
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2730.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "welcome.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "desktop.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "browse.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "goa.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "office.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "media.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "photos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 139.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "usc.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "accessibility.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "gethelp.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "ubuntu-gnome-ubiquity.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Binaries/apps-manager.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
