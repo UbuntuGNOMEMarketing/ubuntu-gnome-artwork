@@ -228,7 +228,7 @@ Inner space is 224px wide.
 	
 	z-index:2;
 	
-	/* Screenshot shadows*/
+	/* Screenshot shadow, not in use but might be useful in future releases*/
 	/* -webkit-box-shadow:#999999 0px 0px 5px;
 	-moz-box-shadow:#999999 0px 0px 5px;
 	box-shadow:#999999 0px 0px 5px; */
