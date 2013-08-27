@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Ubuntu GNOME Text
+Description=Text mode theme based on ubuntu-gnome-logo theme
+ModuleName=ubuntu-gnome-text
+
+[ubuntu-gnome-text]
+title=Ubuntu GNOME
+black=0x2d3335
+white=0xffffff
+brown=0x0087ed
+blue=0x133773
