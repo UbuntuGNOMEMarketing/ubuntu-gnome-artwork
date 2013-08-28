@@ -160,10 +160,32 @@ fun StringToInteger (str) {
     return int;
 }
 
-#-----------------------------------------------------------------------------
+
+
+#--------------------------------------Background functions --------------------------
+noise.image = Image ("noise-texture.png");
+
+fun draw_bg () {
+    noise.i = 0;
+    noise.j = 0;
+
+    while (noise.j*256 < Window.GetHeight ()) {
+        while (noise.i*256 < Window.GetWidth ()) {
+            noise.sprite[noise.i][noise.j] = Sprite ();
+            noise.sprite[noise.i][noise.j].SetImage (noise.image);
+            noise.sprite[noise.i][noise.j].SetX (noise.i*256);
+            noise.sprite[noise.i][noise.j].SetY (noise.j*256);
+            noise.i++;
+        }
+        noise.i = 0;
+        noise.j++;
+    }
+}
+
 Window.SetBackgroundTopColor (0.18, 0.20, 0.21);     # Nice colour on top of the screen fading to
 Window.SetBackgroundBottomColor (0.18, 0.20, 0.21);  # an equally nice colour on the bottom
 
+#-----------------------------------------------------------------------------
 bits_per_pixel = Window.GetBitsPerPixel ();
 if (bits_per_pixel == 4) {
     logo_filename = "ubuntu_gnome_logo16.png";
@@ -191,6 +213,7 @@ logo.sprite.SetX (logo.x);
 logo.sprite.SetY (logo.y);
 logo.sprite.SetZ (logo.z);
 logo.sprite.SetOpacity (1);
+draw_bg ();
 
 # Spacing below the logo - in pixels
 logo_spacing = logo.height * 4;
