@@ -31,10 +31,10 @@ text_colour.red = 1.0;
 text_colour.green = 1.0;
 text_colour.blue = 1.0;
 
-# Tinted text #133773
-tinted_text_colour.red = 0.07;
-tinted_text_colour.green = 0.22;
-tinted_text_colour.blue = 0.45;
+# Tinted text #ffffff
+tinted_text_colour.red = 1.0;
+tinted_text_colour.green = 1.0;
+tinted_text_colour.blue = 1.0;
 
 # Action Text - #ffffff
 action_text_colour.red = 1.0;
