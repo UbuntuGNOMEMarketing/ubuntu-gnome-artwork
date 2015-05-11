@@ -1,0 +1,5 @@
+
+1. TODO: Use of SVG for the better experience and also we get a lightweight web.
+2. DONE: Hardcoded buttons (we don't want to use images).
+3. TODO: Two kind of icons: text, text + symbolic icon.
+4. ? Make the background image size static, just shrink the section shown. We could instead use a pattern.
