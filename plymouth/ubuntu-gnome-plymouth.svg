@@ -13,32 +13,10 @@
    height="720"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="ubuntu-gnome-plymouth.svg">
   <defs
      id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3566">
-      <rect
-         style="fill:#2e3436;fill-opacity:1;stroke:none"
-         id="rect3568"
-         width="1280"
-         height="720"
-         x="-317.14285"
-         y="-687.20929" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3566-2">
-      <rect
-         style="fill:#2e3436;fill-opacity:1;stroke:none"
-         id="rect3568-5"
-         width="1280"
-         height="720"
-         x="-317.14285"
-         y="-687.20929" />
-    </clipPath>
     <filter
        inkscape:collect="always"
        id="filter4312"
@@ -52,17 +30,6 @@
          stdDeviation="1.924"
          id="feGaussianBlur4314" />
     </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4757">
-      <rect
-         style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect4759"
-         width="17.625"
-         height="17.125"
-         x="407.23215"
-         y="-228.33429" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="559.40212"
+     inkscape:cx="384.40212"
      inkscape:cy="302.36191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -132,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -162,7 +129,7 @@
            style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <path
            transform="matrix(0.38709677,0,0,0.38709677,354.95392,-36.64477)"
-           d="m 209,330.5 c 0,8.56041 -6.93959,15.5 -15.5,15.5 -8.56041,0 -15.5,-6.93959 -15.5,-15.5 0,-8.56041 6.93959,-15.5 15.5,-15.5 8.56041,0 15.5,6.93959 15.5,15.5 z"
+           d="M 209,330.5 A 15.5,15.5 0 0 1 193.5,346 15.5,15.5 0 0 1 178,330.5 15.5,15.5 0 0 1 193.5,315 15.5,15.5 0 0 1 209,330.5 Z"
            sodipodi:ry="15.5"
            sodipodi:rx="15.5"
            sodipodi:cy="330.5"
@@ -183,7 +150,7 @@
            y="80.79071" />
         <path
            transform="matrix(0.38709677,0,0,0.38709677,326.95392,-36.64477)"
-           d="m 209,330.5 c 0,8.56041 -6.93959,15.5 -15.5,15.5 -8.56041,0 -15.5,-6.93959 -15.5,-15.5 0,-8.56041 6.93959,-15.5 15.5,-15.5 8.56041,0 15.5,6.93959 15.5,15.5 z"
+           d="M 209,330.5 A 15.5,15.5 0 0 1 193.5,346 15.5,15.5 0 0 1 178,330.5 15.5,15.5 0 0 1 193.5,315 15.5,15.5 0 0 1 209,330.5 Z"
            sodipodi:ry="15.5"
            sodipodi:rx="15.5"
            sodipodi:cy="330.5"
@@ -210,7 +177,7 @@
            sodipodi:cy="330.5"
            sodipodi:rx="15.5"
            sodipodi:ry="15.5"
-           d="m 209,330.5 c 0,8.56041 -6.93959,15.5 -15.5,15.5 -8.56041,0 -15.5,-6.93959 -15.5,-15.5 0,-8.56041 6.93959,-15.5 15.5,-15.5 8.56041,0 15.5,6.93959 15.5,15.5 z"
+           d="M 209,330.5 A 15.5,15.5 0 0 1 193.5,346 15.5,15.5 0 0 1 178,330.5 15.5,15.5 0 0 1 193.5,315 15.5,15.5 0 0 1 209,330.5 Z"
            transform="matrix(0.38709677,0,0,0.38709677,326.95392,-36.64477)" />
       </g>
     </g>
