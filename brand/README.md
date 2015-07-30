@@ -9,10 +9,10 @@ GNOME is a registered trademark of the GNOME Foundation.
 
 Used with permission.
 
-# Appendinx
+# Appendix
 
-Graphical product: Logo
-Client info and contact: Ubuntu GNOME, https://ubuntugnome.org
+ - Graphical product: Logo
+ - Client info and contact: Ubuntu GNOME, https://ubuntugnome.org
 
 ## Copyrights and use of the product:
 
