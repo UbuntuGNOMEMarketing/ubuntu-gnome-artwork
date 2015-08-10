@@ -1,8 +1,6 @@
 # Copyright and legal notice
 
-This artwork is protected under international laws. Unauthorized use or redistribution is strictly prohibited and will be subject to penalties under applicable law.
-
-For use with the Ubuntu GNOME GNU/Linux distribution and where permitted by Ubuntu GNOME only.
+The Ubuntu GNOME logo is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
 
 Ubuntu is a registered trademark of Canonical Ltd.
 GNOME is a registered trademark of the GNOME Foundation.
