@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="overview.svg"
-   inkscape:export-filename="/home/aldomann/Dropbox/Ubuntu GNOME/Artwork/ubiquity/desktop.png"
+   inkscape:export-filename="/home/aldomann/desktop.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -25,11 +25,11 @@
        inkscape:collect="always"
        id="linearGradient5330">
       <stop
-         style="stop-color:#000000;stop-opacity:0.31325302"
+         style="stop-color:#000000;stop-opacity:0.50980395"
          offset="0"
          id="stop5332" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.65662652"
+         style="stop-color:#000000;stop-opacity:0.70588237"
          offset="1"
          id="stop5334" />
     </linearGradient>
@@ -535,10 +535,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="220.32208"
-     inkscape:cy="86.437784"
+     inkscape:cx="364.81091"
+     inkscape:cy="141.56869"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer8"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -3247,7 +3247,8 @@ L9ur8wLs1hQRhJSZc30Xn4OsZZs/K2iMCj9C4q/k0wAhAP8HQgaZxpViOvkAAAAASUVORK5CYII=
      id="layer19"
      inkscape:label="window">
     <g
-       id="g78086">
+       id="g78086"
+       transform="translate(-0.38696289,0.56790161)">
       <g
          id="g9123"
          style="display:inline"
@@ -7036,14 +7037,14 @@ L9ur8wLs1hQRhJSZc30Xn4OsZZs/K2iMCj9C4q/k0wAhAP8HQgaZxpViOvkAAAAASUVORK5CYII=
         </g>
       </g>
       <rect
-         ry="4"
-         rx="4"
-         y="95.332092"
-         x="112.88696"
-         height="146.60001"
-         width="249.2"
+         ry="4.0108366"
+         rx="3.9967444"
+         y="94.933517"
+         x="112.88838"
+         height="146.99716"
+         width="248.99716"
          id="rect7705-9"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#256ab1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#256ab1;stroke-width:3.00283813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
     </g>
     <g
        transform="matrix(1.5130366,0,0,1.5130366,103.07435,196.82132)"
@@ -7072,7 +7073,7 @@ L9ur8wLs1hQRhJSZc30Xn4OsZZs/K2iMCj9C4q/k0wAhAP8HQgaZxpViOvkAAAAASUVORK5CYII=
     <g
        style="display:inline"
        id="g16402-3-3-3"
-       transform="matrix(1.375,0,0,1.375,352.31296,91.03064)">
+       transform="matrix(1.375,0,0,1.375,346.92465,87.015438)">
       <g
          id="g3175-0-6-6">
         <path
