@@ -1,4 +1,4 @@
-# Ubuntu GNOME Installer Slides
+# Ubuntu GNOME Installer Artwork
 
 ## License
 All the artwork found used in Ubiquity is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
