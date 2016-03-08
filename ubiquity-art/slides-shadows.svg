@@ -125,21 +125,6 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       id="filter4916"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.15"
-       inkscape:menu="Image Effects"
-       inkscape:label="Sharpen">
-      <feConvolveMatrix
-         id="feConvolveMatrix4918"
-         targetY="1"
-         targetX="1"
-         in="SourceGraphic"
-         divisor="1"
-         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
-         order="3 3" />
-    </filter>
-    <filter
        height="1.0596339"
        y="-0.029816949"
        width="1.0401644"
