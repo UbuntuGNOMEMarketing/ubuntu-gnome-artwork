@@ -1,6 +1,6 @@
 # Copyright and legal notice
 
-The Ubuntu GNOME logo is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+The Ubuntu GNOME logo is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 Ubuntu is a registered trademark of Canonical Ltd.
 GNOME is a registered trademark of the GNOME Foundation.
