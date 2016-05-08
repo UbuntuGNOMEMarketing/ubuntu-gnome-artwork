@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
+     inkscape:zoom="1"
      inkscape:cx="171.46529"
      inkscape:cy="320.78997"
      inkscape:document-units="px"
@@ -920,7 +920,9 @@
          style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
-       id="g4653">
+       id="g4653"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <circle
          r="32"
          cy="729.36218"
