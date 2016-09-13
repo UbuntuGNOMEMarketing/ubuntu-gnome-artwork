@@ -535,10 +535,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="238.03035"
-     inkscape:cy="236.3642"
+     inkscape:cx="215.35704"
+     inkscape:cy="72.452107"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer16"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -4490,63 +4490,71 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="search">
+    <rect
+       style="display:inline;fill:#2d3335;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.46543783"
+       id="rect6976-3-4-6-7-5"
+       width="222"
+       height="26"
+       x="112.5"
+       y="46.5"
+       ry="5"
+       rx="5"
+       inkscape:export-filename="/home/jimmac/src/cvs/gnome/gnome-shell-design/mockups/motion/textures/top-bar-overview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5166"
+       d="m 1045.8672,530.73399 c -3.878,0 -7,3.122 -7,7 l 0,24.83204 c 0,3.878 3.122,7 7,7 l 222.7422,0 c 3.878,0 7,-3.122 7,-7 l 0,-24.83204 c 0,-3.878 -3.122,-7 -7,-7 z m 8.2578,6.53907 208,0 c 3.878,0 6.5004,3.122 6.5004,7 l 0,12 c 0,3.878 -2.6224,7 -6.5004,7 l -208,0 c -3.878,0 -6.4996,-3.122 -6.4996,-7 l 0,-12 c 0,-3.878 2.6216,-7 6.4996,-7 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.65;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5326);enable-background:accumulate"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssssssssssss"
+       clip-path="url(#clipPath5230)"
+       transform="translate(-934.12439,-490.02338)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="148.74333"
+       y="64.028717"
+       id="text4635"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4637"
+         x="148.74333"
+         y="64.028717">Type to search...</tspan></text>
     <g
-       transform="translate(42.5,-481)"
-       style="display:inline"
-       id="g5338">
-      <g
-         transform="translate(-976.62439,-9.0233765)"
-         id="g5234">
-        <rect
-           style="display:inline;fill:#282828;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.46543783"
-           id="rect6976-3-4-6-7-5"
-           width="222"
-           height="26"
-           x="1047.1244"
-           y="536.27338"
-           ry="7"
-           rx="7"
-           inkscape:export-filename="/home/jimmac/src/cvs/gnome/gnome-shell-design/mockups/motion/textures/top-bar-overview.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <path
-           id="path5166"
-           d="m 1045.8672,530.73399 c -3.878,0 -7,3.122 -7,7 l 0,24.83204 c 0,3.878 3.122,7 7,7 l 222.7422,0 c 3.878,0 7,-3.122 7,-7 l 0,-24.83204 c 0,-3.878 -3.122,-7 -7,-7 z m 8.2578,6.53907 208,0 c 3.878,0 6.5004,3.122 6.5004,7 l 0,12 c 0,3.878 -2.6224,7 -6.5004,7 l -208,0 c -3.878,0 -6.4996,-3.122 -6.4996,-7 l 0,-12 c 0,-3.878 2.6216,-7 6.4996,-7 z"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.65;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5326);enable-background:accumulate"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssssssssssssssssss"
-           clip-path="url(#clipPath5230)" />
-      </g>
-      <g
-         transform="translate(6.4136914e-4,51)"
-         id="g4729">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
-           x="98.242683"
-           y="494.02872"
-           id="text4635"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4637"
-             x="98.242683"
-             y="494.02872">Type to search...</tspan></text>
-        <g
-           transform="translate(37.487872,-184.88351)"
-           id="layer11">
-          <path
-             d="m 47.508,668 c -3.0289,0 -5.5107,2.479 -5.5107,5.5045 0,3.0254 2.4819,5.5045 5.5107,5.5045 3.0289,0 5.5107,-2.479 5.5107,-5.5045 0,-3.0254 -2.4819,-5.5045 -5.5107,-5.5045 z m 0,2.0089 c 1.9474,0 3.4995,1.5504 3.4995,3.4955 0,1.9451 -1.5522,3.4955 -3.4995,3.4955 -1.9474,0 -3.4995,-1.5504 -3.4995,-3.4955 0,-1.9452 1.5522,-3.4955 3.4995,-3.4955 z"
-             style="color:#000000;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe;enable-background:new"
-             id="path5254"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 50.812,676 a 1.0001,1.0001 0 0 0 -0.5,1.7188 l 4,4 a 1.0055,1.0055 0 1 0 1.4062,-1.4375 l -4,-4 a 1.0001,1.0001 0 0 0 -0.906,-0.28 z"
-             style="color:#000000;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe;enable-background:new"
-             id="path5256"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
+       transform="matrix(-1,0,0,1,182.02696,-615.01177)"
+       id="layer11">
+      <path
+         d="m 47.508,668 c -3.0289,0 -5.5107,2.479 -5.5107,5.5045 0,3.0254 2.4819,5.5045 5.5107,5.5045 3.0289,0 5.5107,-2.479 5.5107,-5.5045 0,-3.0254 -2.4819,-5.5045 -5.5107,-5.5045 z m 0,2.0089 c 1.9474,0 3.4995,1.5504 3.4995,3.4955 0,1.9451 -1.5522,3.4955 -3.4995,3.4955 -1.9474,0 -3.4995,-1.5504 -3.4995,-3.4955 0,-1.9452 1.5522,-3.4955 3.4995,-3.4955 z"
+         style="color:#000000;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe;enable-background:new"
+         id="path5254"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 50.812,676 a 1.0001,1.0001 0 0 0 -0.5,1.7188 l 4,4 a 1.0055,1.0055 0 1 0 1.4062,-1.4375 l -4,-4 a 1.0001,1.0001 0 0 0 -0.906,-0.28 z"
+         style="color:#000000;text-indent:0;text-transform:none;block-progression:tb;fill:#bebebe;enable-background:new"
+         id="path5256"
+         inkscape:connector-curvature="0" />
     </g>
+    <path
+       transform="translate(-934.62439,-489.77338)"
+       clip-path="url(#clipPath5230)"
+       sodipodi:nodetypes="ssssssssssssssssss"
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.65;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5326);enable-background:accumulate"
+       d="m 1045.8672,530.73399 c -3.878,0 -7,3.122 -7,7 l 0,24.83204 c 0,3.878 3.122,7 7,7 l 222.7422,0 c 3.878,0 7,-3.122 7,-7 l 0,-24.83204 c 0,-3.878 -3.122,-7 -7,-7 z m 8.2578,6.53907 208,0 c 3.878,0 6.5004,3.122 6.5004,7 l 0,12 c 0,3.878 -2.6224,7 -6.5004,7 l -208,0 c -3.878,0 -6.4996,-3.122 -6.4996,-7 l 0,-12 c 0,-3.878 2.6216,-7 6.4996,-7 z"
+       id="path4873" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/jimmac/src/cvs/gnome/gnome-shell-design/mockups/motion/textures/top-bar-overview.png"
+       rx="5"
+       ry="5"
+       y="46.5"
+       x="112.5"
+       height="26"
+       width="222"
+       id="rect4875"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#717164;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
